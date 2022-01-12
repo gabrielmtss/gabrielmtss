@@ -1,5 +1,5 @@
 ## Hello, devs! 👋
-### Meu nome é Gabriel Matos, mas pode me chamar de Gab :grin:
+<!-- ### Meu nome é Gabriel Matos, mas pode me chamar de Gab :grin: -->
 
 </br>
 </br>
